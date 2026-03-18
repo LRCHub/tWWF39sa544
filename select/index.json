@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Birds",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-03-18T14:40:17.490406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Birds in the Ceiling",
+      "artist": "John Moreland",
+      "has_synced": true,
+      "path": "select/01_Birds_in_the_Ceiling_John_Moreland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Just Be Friends (From The Angry Birds Movie 2)",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Let's_Just_Be_Friends_(From_The_Angry_Birds_Movie_2)_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Two Birds, One Stone",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Two_Birds,_One_Stone_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "T-Birds",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/04_T-Birds_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Excellent Birds",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/05_Excellent_Birds_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Birds",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/06_Birds_M83.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Of Moons, Birds & Monsters",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/07_Of_Moons,_Birds_&_Monsters_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Birds",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/08_Birds_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Birds",
+      "artist": "Eiafuawn",
+      "has_synced": true,
+      "path": "select/09_Birds_Eiafuawn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Birds of War",
+      "artist": "Sabaton",
+      "has_synced": false,
+      "path": "select/10_Birds_of_War_Sabaton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cry Of The Black Birds",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/11_Cry_Of_The_Black_Birds_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cry of the Black Birds",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/12_Cry_of_the_Black_Birds_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Birds & The Bees",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/13_Birds_&_The_Bees_IDK.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Birds",
+      "artist": "Public Image Ltd.",
+      "has_synced": true,
+      "path": "select/14_No_Birds_Public_Image_Ltd..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Birds Do Sing",
+      "artist": "Public Image Ltd.",
+      "has_synced": false,
+      "path": "select/15_No_Birds_Do_Sing_Public_Image_Ltd..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "birds",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_birds_坂本_真綾.txt"
+    }
+  ]
+}
